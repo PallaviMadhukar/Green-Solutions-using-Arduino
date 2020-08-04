@@ -39,3 +39,6 @@ Add to the code and find the percentage of moisture.
 #### 12. [Working towards the capstone](/Module%201/Working%20towards%20the%20capstone.docx)
 
 The soil moisture sensor can be used to solve various issues. This need not be related to soil, for e.g. it can be integrated in dustbins for dry/wet waste segregation. It can also have a dual purpose, for e.g. automatic irrigation saves water, energy and ensures healthy growth by providing ideal supply. Think of ways the soil moisture sensor can solve a problem we face under the three issues- water, waste, energy.
+
+#### 13. In class quiz
+
